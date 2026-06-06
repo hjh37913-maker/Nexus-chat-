@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dialogue Base Icon in Radiant Cyan -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,20 C36,20 22,32 22,48 C22,57 28,65 37,70 L34,88 L52,79 C53,79 53,79 54,79 C72,79 86,67 86,48 C86,32 72,20 54,20 Z" />
+    <!-- High-Contrast Letter N of NEXUS inside the ballon -->
+    <path
+        android:fillColor="#0D141B"
+        android:pathData="M43,36 L43,60 L49,60 L49,47 L59,60 L65,60 L65,36 L59,36 L59,49 L49,36 Z" />
+</vector>

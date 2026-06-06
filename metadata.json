@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS",
+  "description": "Premium multi-screen Telegram-style messenger with private chats, spaces, global user searching, local database persistence, and customizable subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
